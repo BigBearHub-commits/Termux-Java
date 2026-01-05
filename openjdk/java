@@ -1,3 +1,4 @@
+
 #!/system/bin/sh
 #export LD_LIBRARY_PATH=/data/data/per.pqy.apktool/apktool/lix
 #in some targets,LD_PRELOAD will cause a error.

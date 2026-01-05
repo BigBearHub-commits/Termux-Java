@@ -6,7 +6,7 @@
 # Cryptography Package Providers ("providers" for short). The term
 # "provider" refers to a package or set of packages that supply a
 # concrete implementation of a subset of the cryptography aspects of
-# the Java Security API. A provider may, for example, implement one or
+# the Java Security API. A providr may, for example, implement one or
 # more digital signature algorithms or message digest algorithms.
 #
 # Each provider must implement a subclass of the Provider class.
